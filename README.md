@@ -7,4 +7,5 @@ They're served from here (GitHub Pages) so adding one never uses Netlify credits
 A minute or two later it's compressed, numbered, and on the site with the ? after it.
 
 - Name a photo just `5.jpg` to replace piece 5.
+- Glow piece? Upload the blacklight photo named `12-glow.jpg` (same number) and the site fades between the two. Take both photos from the same spot so they line up.
 - Next year: change `"2026"` to `"2027"` in `process.py`.
